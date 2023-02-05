@@ -293,7 +293,7 @@ a {
 
 .social {
   background-color: #F5ECE3;
-  padding: 100px 70px 100px 200px;
+  padding: 50px 70px 50px 100px;
 }
 
 .social__inner {
@@ -342,7 +342,7 @@ a {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (310px)[4];
-      grid-template-columns: repeat(4, 310px);
+      grid-template-columns: repeat(4, 250px);
   gap: 20px;
 }
 

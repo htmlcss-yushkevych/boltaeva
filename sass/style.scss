@@ -234,7 +234,7 @@ a {
 }
 .social {
   background-color: $bg-color;
-  padding: 100px 70px 100px 200px;
+  padding: 50px 70px 50px 100px;
   &__inner{
     display: flex;
     justify-content: space-between;
@@ -242,7 +242,7 @@ a {
   }
   &__title {
     font-weight: 300;
-    font-size: 48px;
+    font-size: 40px;
     line-height: 130%;
     letter-spacing: -0.02em;
     color: $font-color;
@@ -252,7 +252,7 @@ a {
     background: #EEE4DA;
     backdrop-filter: blur(14px);
     border-radius: 66px;
-    width: 310px;
+    width: 280px;
     height: 80px;
     margin-right: 70px;
 
@@ -270,7 +270,7 @@ a {
   padding-bottom: 100px;
   &__inner{
     display: grid;
-    grid-template-columns: repeat(4, 310px);
+    grid-template-columns: repeat(4, 250px);
     gap: 20px;
   }
 }
